@@ -181,7 +181,7 @@ Industry sources: [UNEP](https://www.unep.org), [Ellen MacArthur Foundation](htt
 
 ##  Author
 
-**V.Sai Harshith**
+**Jagrati**
 - Department of Computing Technologies
 - SRMIST,Kattankulathur
 - Academic Year: 2025–2026
