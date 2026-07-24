@@ -187,6 +187,10 @@ Industry sources: [UNEP](https://www.unep.org), [Ellen MacArthur Foundation](htt
 - Academic Year: 2025–2026
 
 ---
+**V.Sai Harshith**
+- Department of Computing Technologies
+- SRMIST,Kattankulathur
+- Academic Year: 2025–2026
 
 ##  License
 
